@@ -1,0 +1,10 @@
+pyrogram==2.0.106
+tgcrypto
+pymongo
+motor
+yt-dlp>=2025.1.1
+python-dotenv
+ffmpeg-python
+hachoir
+flask
+requests
