@@ -7,7 +7,7 @@ load_dotenv()
 # Bot Configuration
 API_ID = os.getenv("API_ID", "37476811")
 API_HASH = os.getenv("API_HASH", "7aa60670b871050820086c6267371ee6")
-BOT_TOKEN = os.getenv("BOT_TOKEN", "8620719393:AAEuJiGaMukiAYbOVN1zXAxDuz2sznkvYx0")
+BOT_TOKEN = os.getenv("BOT_TOKEN", "8694198519:AAGWfVBXaB3c1_vc5ZRZLl8cDNYe_SS8cVI")
 MONGODB_URI = os.getenv("MONGODB_URI", "mongodb+srv://Anujedit:Anujedit@cluster0.7cs2nhd.mongodb.net/?appName=Cluster0")
 DB_NAME = os.getenv("DB_NAME", "ytdl_bot_db")
 ADMINS = list(map(int, os.getenv("ADMINS", "8730393744").split()))
