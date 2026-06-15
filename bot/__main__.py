@@ -1204,7 +1204,7 @@ async def callback_handler(client, callback_query):
             "Join our updates channel to get the latest news and features about the bot:\n\n"
             "🔗 @anujedits76",
             reply_markup=InlineKeyboardMarkup([
-                [InlineKeyboardButton("Join Channel", url="https://t.me/anujeditbyak")],
+                [InlineKeyboardButton("Join Channel", url="https://t.me/log_ak_bots")],
                 [InlineKeyboardButton("◀️ Back", callback_data="back_to_start")]
             ])
         )
@@ -1218,7 +1218,7 @@ async def callback_handler(client, callback_query):
             "If you need help or want to report an issue, join our support group:\n\n"
             "🔗 @anujeditbyak",
             reply_markup=InlineKeyboardMarkup([
-                [InlineKeyboardButton("Support Group", url="https://t.me/anujeditbyak")],
+                [InlineKeyboardButton("Support Group", url="https://t.me/log_ak_bots")],
                 [InlineKeyboardButton("◀️ Back", callback_data="back_to_start")]
             ])
         )
