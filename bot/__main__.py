@@ -61,7 +61,7 @@ ADMIN_COOKIE_WAITING = False
 
 
 # Channel/Group IDs
-FORCE_SUB_CHANNEL1 = os.getenv("FORCE_SUB_CHANNEL1", "anujeditbyak")  # First channel username or ID
+FORCE_SUB_CHANNEL1 = os.getenv("FORCE_SUB_CHANNEL1", "log_ak_bots")  # First channel username or ID
 FORCE_SUB_CHANNEL2 = os.getenv("FORCE_SUB_CHANNEL2", None)  # Second channel username or ID (optional)
 ADMIN_GROUP = os.getenv("ADMIN_GROUP", None)  # Admin group ID (optional)
 
